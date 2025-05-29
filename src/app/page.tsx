@@ -10,6 +10,6 @@ export async function generateMetadata(): Promise<Metadata> {
 
 export default function Home() {
   return (
-    <div>main</div>
+    <div>main 2</div>
   );
 }
