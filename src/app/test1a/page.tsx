@@ -11,8 +11,8 @@ export default async function Page() {
 export async function generateMetadata(): Promise<Metadata> {
   const metadata: Metadata = {
     //metadataBase: new URL('https://paulo2.vercel.app/'),
-    title: 'Titulo Test1 - new ',
-    description: 'Descrição Test1 - new',
+    title: 'Titulo Test1',
+    description: 'Descrição Test1',
     keywords: ['aaa', 'bbbbbbb'],
     robots: ({ index: false, follow: false }),
     openGraph: {
