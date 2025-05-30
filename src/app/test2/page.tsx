@@ -9,6 +9,6 @@ export default async function Page() {
 }
 
 export const metadata: Metadata = {
-  title: 'Titulo Test2 OG',
+  //title: 'Titulo Test2 OG',
   description: 'Descrição Test2 OG',
 }

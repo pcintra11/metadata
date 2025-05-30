@@ -4,11 +4,10 @@ export default function MainLayoutCli({ children }: { children: React.ReactEleme
   return (
     <html>
       <head>
-        <title>xxxx</title>
+        <title>xxxx yyyy zzzz</title>
       </head>
       <body>
         {children}
-
       </body>
     </html>
   );
