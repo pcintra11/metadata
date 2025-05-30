@@ -16,8 +16,8 @@ export async function generateMetadata(): Promise<Metadata> {
     keywords: ['aaa', 'bbbbbbb'],
     robots: ({ index: false, follow: false }),
     openGraph: {
-      title: 'Titulo Test1 OG',
-      description: 'Descrição Test1 OG',
+      title: 'Titulo Test1 OG - new',
+      description: 'Descrição Test1 OG - new',
       url: new URL('https://paulo2.vercel.app/test1xxx'),
       images: [
         { url: new URL('https://res.cloudinary.com/pcintra/image/upload/v1748578059/vizinet/prd/generatedByAI/business/%2Atest_periodic%2A-01748578059361-0.png') },
