@@ -18,7 +18,7 @@ export async function generateMetadata(): Promise<Metadata> {
     openGraph: {
       title: 'Titulo Test1 OG',
       description: 'Descrição Test1 OG',
-      url: new URL('https://paulo2.vercel.app/test1xxx'),
+      //url: new URL('https://paulo2.vercel.app/test1xxx'),
       images: [
         { url: new URL('https://res.cloudinary.com/pcintra/image/upload/v1748578059/vizinet/prd/generatedByAI/business/%2Atest_periodic%2A-01748578059361-0.png') },
         { url: new URL('https://res.cloudinary.com/pcintra/image/upload/t_openGraph_v400/v1748578059/vizinet/prd/generatedByAI/business/*test_periodic*-01748578059361-0.png') },
